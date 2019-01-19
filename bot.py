@@ -6,7 +6,7 @@ import telebot
 from telebot import types
 from telebot.types import Message
 
-TOKEN = '386377468:AAHqCK1Xm0x_rBSvNRhDfM5v1Xzr2VfVTFw'
+TOKEN = '658831329:AAFe_u9WvqcpePeex2IZ-62jD6YC2jeZeu4'
 STICKER_ID = 'CAADAgADXwMAAgw7AAEKTh8jAAH9Q-gAAQI'
 
 bot = telebot.TeleBot(TOKEN)
